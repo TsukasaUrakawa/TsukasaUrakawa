@@ -15,7 +15,3 @@
 
 ![](./profile-summary-card-output/2077/3-stats.svg)
 ![](./profile-summary-card-output/2077/4-productive-time.svg)
-
-## 📈 Recent Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TsukasaUrakawa&theme=tokyo-night)
