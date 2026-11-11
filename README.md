@@ -3,6 +3,10 @@
 ゲームプログラマーを目指して勉強しています！
 
 ## 📊 GitHub Activity
+### 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+  
 
 [![](./profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/TsukasaUrakawa)
 
