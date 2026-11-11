@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tsukasa! 👋
 
-<!--
-**TsukasaUrakawa/TsukasaUrakawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ゲームプログラマーを目指して勉強しています！
 
-Here are some ideas to get you started:
+## 📊 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](./profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/TsukasaUrakawa)
+
+![](./profile-summary-card-output/2077/1-repos-per-language.svg)
+![](./profile-summary-card-output/2077/2-most-commit-language.svg)
+
+![](./profile-summary-card-output/2077/3-stats.svg)
+![](./profile-summary-card-output/2077/4-productive-time.svg)
