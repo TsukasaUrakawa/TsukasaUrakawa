@@ -15,3 +15,20 @@
 
 ![](./profile-summary-card-output/2077/3-stats.svg)
 ![](./profile-summary-card-output/2077/4-productive-time.svg)
+
+<h2>🐍 Contribution Snake</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TsukasaUrakawa/TsukasaUrakawa/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TsukasaUrakawa/TsukasaUrakawa/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Snake"
+    src="https://raw.githubusercontent.com/TsukasaUrakawa/TsukasaUrakawa/output/github-snake.svg"
+  />
+</picture>
